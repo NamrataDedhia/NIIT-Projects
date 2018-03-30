@@ -17,7 +17,7 @@ public class PrintReverse {
 		n=n/10;
 	}
 	
-	System.out.println("Reverse of entered number is" +reverse);
+	System.out.println("Reverse of entered number is " +reverse);
 
 	}
 
